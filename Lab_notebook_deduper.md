@@ -19,6 +19,9 @@ From assignment
         - maximum resident set size
 
 # Log
+## 10/20/26
+Started on deduper python script and created shell script.
+
 ## 10/12/26
 Organized pseudocode into sections using markdown, and modified it to go through each chromosome one by one
 
