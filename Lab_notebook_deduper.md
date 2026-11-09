@@ -8,6 +8,8 @@ Removing PCR duplicates.
 
 # Overview
 Updated 11/8/26
+Python 3.14
+samtools 1.25
 
 ## Inputs
 - Sorted SAM file
