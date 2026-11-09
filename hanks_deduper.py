@@ -30,6 +30,7 @@ def soft_check(cgr:str,bits:int,postn:int):
             else:
                 end = True
                 length += int_num
+                str_num = ""
 
     if revv:
         strt = postn + length + end_sc-1 # and other stuff
