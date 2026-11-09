@@ -8,4 +8,4 @@ UMI=./STL96.txt
 
 
 pixi run samtools sort -o $FILE_S -O sam $FILE 
-/usr/bin/time -v pixi run ./hanks_deduper.py -f $FILE -o $OUT -u $UMI
+/usr/bin/time -v pixi run ./hanks_deduper.py -f $FILE_S -o $OUT -u $UMI
